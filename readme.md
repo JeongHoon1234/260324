@@ -1,11 +1,1 @@
-
-#git 연습#
-
--github에서 수정함
--컬에서 2번째 수정함
--github에서 수정함
--2번째 수정
-- 마지막 수정
-=======
-- ㅋㅋ
-
+김은진: https://github.com/kimbongbeak
