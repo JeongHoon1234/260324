@@ -4,4 +4,4 @@
 - **정정훈** : https://github.com/JeongHoon1234
 ---
 ### 팀 url
-- **팀명** :
+- **버그잡았조** :
